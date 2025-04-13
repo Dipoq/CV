@@ -2,3 +2,4 @@
 hello world
 I love pelmenius
 Oleg is good
+https://Dipoq.github.io/cv/cv
